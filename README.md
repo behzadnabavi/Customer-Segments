@@ -1,2 +1,2 @@
 # customer-segments
-Udacity 
+Udacity Unsupervised Learning Project
